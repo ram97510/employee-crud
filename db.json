@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Ramkumar",
+      "email": "ram@gmail.com",
+      "mobile": "982737327"
+    },
+    {
+      "id": 3,
+      "name": "Navinkumar",
+      "email": "navin@gmail.com",
+      "mobile": "8632863428"
+    },
+    {
+      "id": 4,
+      "name": "Nishanth",
+      "email": "nishanth@gmail.com",
+      "mobile": "9832452839"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
